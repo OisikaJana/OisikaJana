@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular,SpringBoot.**
 
-- 🤝 I’m looking for help with **E-commerce**
+- 🤝 I’m looking for  **Job**
 
 - 💬 Ask me about **C And Java**
 
