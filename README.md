@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oisikajana" alt="oisikajana" /></a> </p>
 
-<img align="right" alt="Coding" width="400" height="350" src="https://github.com/OisikaJana/OisikaJana/blob/main/pintrest.jpg">
+<img align="right" alt="Coding" width="350" height="300" src="https://github.com/OisikaJana/OisikaJana/blob/main/pintrest.jpg">
 
 - 🔭 I’m currently working on **Shopping-Cart**
 
